@@ -5,3 +5,5 @@ wrong code commit---1000 lines
 merge to main
 
 simulate merge conflict main
+simulate merge conflict develop
+simulate merge conflict main
