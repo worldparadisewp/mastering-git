@@ -6,3 +6,4 @@ merge to main
 
 simulate merge conflict main
 simulate merge conflict develop
+simulate merge conflict main
